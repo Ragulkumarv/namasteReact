@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Ragul's react work",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragulkumarv/namasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ragul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragulkumarv/namasteReact/issues"
+  },
+  "homepage": "https://github.com/Ragulkumarv/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
